@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Raul Azzi Corsi
+# Hey there 👋, I'm Raul Azzi Corsi
 
 📚I'm studing cybersecurity at FIAP!
 
