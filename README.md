@@ -60,4 +60,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raulacor/raulacor/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+#
+
+<details>
+  <summary><h3 align="left">👨‍💻My Coding Journey</summary>
+    I started my coding journey as a really... really lost filmmaking student who already felt like an extra in his own story. They told me I’d know when I found what I was meant to do, but whoa — NOTHING could have prepared me for how good it felt when I finished my first Python script. From that day on, absolutely nothing could stop me. I instantly quit my filmmaking school and enrolled in a different school, only this time as a cybersecurity student. It was there that I - mostly on my own - learned more python, explored C++, and fell in love with Rust. And all the while, having to deal with Linux classes at college (I honestly will never understand people who actively like Linux). But soon enough, all of this was overshadowed by my desire to dive deeper into the software engineering aspect of cybersecurity. That’s exactly why I applied for a second major in... well, software engineering. But that chapter of my life is still happeing, so I guess you’ll have to wait for the update in a few months.
+    
