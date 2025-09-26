@@ -39,9 +39,9 @@
 <div align="left">
   
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BKFVaJ10cSsyqBZm9fACzqw%3D%3D" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="raul.azzi.corsi@gmail.com" target="_blank">
+  <a href="mailto:raul.azzi.corsi@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/_raulac/" target="_blank">
@@ -49,6 +49,9 @@
   </a>
   <a href="https://discord.com/users/antizzzz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://open.spotify.com/user/12152577907?si=32f885a7c69245fb" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=Spotify&label=&color=darkgreen&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
