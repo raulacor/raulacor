@@ -19,7 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="css logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="mongodb logo"  />
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" alt="docker logo"  />
 </div>
 
