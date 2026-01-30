@@ -21,6 +21,8 @@
   <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="mongodb logo"  />
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" alt="nodejs logo"  />
+
 </div>
 
 ###
