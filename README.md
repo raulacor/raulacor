@@ -6,18 +6,28 @@
 
 ###
 
-<h2 align="left">💥🔨 Languages and Tools</h2>
+<h2 align="left">💥🔨 Languages </h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="45" alt="rust logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="css logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" alt="csharp logo"  />
+</div>
+
+###
+
+<h2 align="left">🧰🔧 Tools & Frameworks </h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45 alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="45" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45" alt="postgresql logo"  />
 </div>
 
 ###
