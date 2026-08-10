@@ -1,8 +1,9 @@
-<h1 align="left">🦀 Raul Azzi Corsi</h1>
-
-###
-
-<p align="left">I’m a Cybersecurity student at FIAP who’s really into software engineering. I got started teaching myself to code, and that hands-on approach is still how I learn best. Lately, I’ve been diving deep into Rust, which has quickly become my favorite language to explore and build with, and honestly Rust is for me the programming language of the future. I’m always curious about how to write secure, efficient software and love working on projects that push me to level up my skills.</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/wordmark?username=raulacor&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
+    <img src="https://gitskins.com/api/section/wordmark?username=raulacor&theme=neon&nw=ISgQ6lDVTIIGxo5e" alt="raulacor 3d wordmark section" />
+  </picture>
+</p>
 
 ###
 
