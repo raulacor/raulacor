@@ -5,37 +5,31 @@
   </picture>
 </p>
 
-###
 
-<h2 align="left">💥🔨 Programming Skills </h2>
-
-###
+## 💥🔨 Currently working with
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="45" alt="rust logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="css logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" alt=cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React logo" />
 </div>
 
-###
 
-<h2 align="left">🧰🔧 Tools & Frameworks </h2>
+## 🧰🔧 Other technologies
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45 alt="nodejs logo"  />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="45" alt="docker logo"  />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="45" alt="Rust logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js logo" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="45" alt="Docker logo" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45" alt="PostgreSQL logo" />
 </div>
 
-###
+## 📫💬Connect with me
 
-<h2 align="left">📫💬Connect with me</h2>
-
-###
 
 <div align="left">
   
@@ -56,7 +50,6 @@
   </a>
 </div>
 
-###
 
 
 <picture>
@@ -66,14 +59,19 @@
 </picture>
 
 
-#
+
 <details>
-  <summary><h2 align="left">👨‍💻My Coding Journey</summary>
+  <summary><h2 align="left">👨‍💻My journey</summary>
     I started my coding journey as a really... really lost filmmaking student who already felt like an extra in his own story. They told me I’d know when I found what I was meant to do, but whoa — NOTHING could have prepared me for how good it felt when I finished my first Python script. From that day on, absolutely nothing could stop me. I instantly quit my filmmaking school and enrolled in a different school, only this time as a cybersecurity student. It was there that I - mostly on my own - learned more python, explored C++, and fell in love with Rust. And all the while, having to deal with Linux classes at college (I honestly will never understand people who actively like Linux). But soon enough, all of this was overshadowed by my desire to dive deeper into the software engineering aspect of cybersecurity. That’s exactly why I applied for a second major in... well, software engineering. But that chapter of my life is still happeing, so I guess you’ll have to wait for the update in a few months.
+</details>
+    
 ###
 
-#
 
-<picture>
-  <img src="https://www.gitskins.com/api/section/highlights?username=raulacor&theme=github-dark&style=terminal" alt="GitSkins Animated Highlights" width=100% />
-</picture>
+<div align="center">
+  <img
+    src="https://www.gitskins.com/api/section/highlights?username=raulacor&theme=github-dark&style=terminal"
+    alt="GitSkins Animated Highlights"
+    width="100%"
+  />
+</div>
