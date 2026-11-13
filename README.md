@@ -46,6 +46,10 @@
 
 
 
+<p align="center">
+  <img src="./assets/stock.svg" alt="contributions" width="100%">
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raulacor/raulacor/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raulacor/raulacor/output/pacman-contribution-graph.svg">
