@@ -44,12 +44,6 @@
   </a>
 </div>
 
-
-
-<p align="center">
-  <img src="./assets/stock.svg" alt="contributions" width="100%">
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raulacor/raulacor/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raulacor/raulacor/output/pacman-contribution-graph.svg">
@@ -66,10 +60,7 @@
 ###
 
 
-<div align="center">
-  <img
-    src="https://www.gitskins.com/api/section/highlights?username=raulacor&theme=github-dark&style=terminal"
-    alt="GitSkins Animated Highlights"
-    width="100%"
-  />
-</div>
+
+<p align="center">
+  <img src="./assets/stock.svg" alt="contributions" width="100%">
+</p>
