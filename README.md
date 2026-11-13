@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/wordmark?username=raulacor&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://gitskins.com/api/section/wordmark?username=raulacor&theme=neon&nw=ISgQ6lDVTIIGxo5e" alt="raulacor 3d wordmark section" />
-  </picture>
+  <img src="./assets/banner.svg" alt="raulacor" width="100%">
 </p>
 
 
